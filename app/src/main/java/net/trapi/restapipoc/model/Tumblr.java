@@ -329,7 +329,7 @@ public class Tumblr {
     }
 
     @Root(strict = false)
-    public static class Line {
+    public static class Line implements Serializable {
 
         @Attribute(name="name", required = false)
         String name;
