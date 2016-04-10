@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">REST API POC</string>
+    <string name="main_enter_login">Enter login:</string>
+    <string name="main_see_posts">See posts</string>
+    <string name="title_post_list">Posts</string>
+    <string name="title_post_detail">Post Detail</string>
+    <string name="title_activity_posts_list">List of posts</string>
+    <string name="empty_username">Username cannot be empty or too long</string>
+    <string name="no_posts_to_display">No posts to display</string>
+</resources>
